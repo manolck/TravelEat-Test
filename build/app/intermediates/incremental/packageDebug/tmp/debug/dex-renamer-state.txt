@@ -1,0 +1,4 @@
+#Thu Feb 17 19:03:53 GMT-04:00 2022
+base.0=C\:\\Users\\chris\\Documents\\Dev\\Flutter App\\TravelEat-Test\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

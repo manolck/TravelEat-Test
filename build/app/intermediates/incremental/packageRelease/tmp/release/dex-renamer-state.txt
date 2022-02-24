@@ -1,0 +1,4 @@
+#Thu Feb 10 09:56:56 GMT-04:00 2022
+base.0=C\:\\Users\\chris\\Documents\\Dev\\Flutter App\\FlutterFurnitureAppUI-master\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
